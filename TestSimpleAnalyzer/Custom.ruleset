@@ -1,0 +1,5 @@
+<RuleSet Name="Custom Ruleset" Description="Description" ToolsVersion="15.0">
+    <Rules AnalyzerId="SimpleAnalyzer" RuleNamespace="SimpleAnalyze">
+        <Rule Id="MEOW7777" Action="Warning" />
+    </Rules>
+</RuleSet>

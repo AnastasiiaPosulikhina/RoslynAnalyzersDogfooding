@@ -1,0 +1,17 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\ref\RiderStyleCopAnalyzerBug.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\ref\RiderStyleCopAnalyzerBug.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\rider-sa-editorconfig4\RiderStyleCopAnalyzerBug\obj\Debug\net5.0\RiderStyleCopAnalyzerBug.csproj.AssemblyReference.cache

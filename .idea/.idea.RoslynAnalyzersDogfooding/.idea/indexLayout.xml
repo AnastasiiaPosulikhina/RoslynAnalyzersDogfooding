@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Directory.Build.props</Path>
+      <Path>packages/Directory.Build.props</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>packages</Path>
+    </explicitExcludes>
+  </component>
+</project>

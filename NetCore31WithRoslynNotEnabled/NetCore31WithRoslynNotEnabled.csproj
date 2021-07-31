@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <!-- All the rules shouldn't effect code analysis-->
+        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+
+        <!--        <AnalysisLevel>preview</AnalysisLevel>-->
+        <!--        <AnalysisLevel>latest</AnalysisLevel>-->
+        <!--        <AnalysisLevel>5.0</AnalysisLevel>-->
+
+        <!--        <EnableNETAnalyzers>true</EnableNETAnalyzers>-->
+
+        <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
+        <!--        <AnalysisMode>Default</AnalysisMode> -->
+        <!--        <AnalysisMode>AllDisabledByDefault</AnalysisMode>-->
+
+        <!--        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
+        <!--        <RunCodeAnalysis>true</RunCodeAnalysis>-->
+
+        <!--         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+
+        <!--        <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>-->
+        <!--        <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>-->
+        <!--        <RunAnalyzers>false</RunAnalyzers>-->
+    </PropertyGroup>
+
+</Project>

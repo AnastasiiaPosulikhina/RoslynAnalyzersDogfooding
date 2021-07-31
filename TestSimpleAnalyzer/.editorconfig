@@ -1,0 +1,3 @@
+﻿[*.cs]
+dotnet_diagnostic.MEOW7777.severity = none
+

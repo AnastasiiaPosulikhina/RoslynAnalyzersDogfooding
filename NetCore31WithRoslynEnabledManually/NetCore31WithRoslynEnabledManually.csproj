@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>ConsoleAppNetCore31WithRoslynEnabledManually</RootNamespace>
+        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+        <!-- This rule shouldn't effect code analysis-->
+        <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
+
+        <!-- These rules should effect code analysis-->
+        <!--        <AnalysisLevel>preview</AnalysisLevel>-->
+        <!--        <AnalysisLevel>latest</AnalysisLevel>-->
+        <!--        <AnalysisLevel>5.0</AnalysisLevel>-->
+
+        <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
+        <!--        <AnalysisMode>Default</AnalysisMode> -->
+        <!--        <AnalysisMode>AllDisabledByDefault</AnalysisMode>-->
+
+        <!--        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
+        <!--        <RunCodeAnalysis>true</RunCodeAnalysis>-->
+
+        <!--        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+
+        <!--        <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>-->
+        <!--        <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>-->
+        <!--        <RunAnalyzers>false</RunAnalyzers>-->
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="5.0.3">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+
+</Project>

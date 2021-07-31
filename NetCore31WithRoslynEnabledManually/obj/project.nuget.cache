@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9qoFwk4yqDcbG78WMCqw+aDCnYG3QIRsDkLj463q1IZdjaiJx6ZqXQ6qzG9IXI7vipUsLfOKLNNfJnmQds1Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\RoslynAnalyzersDogfooding\\NetCore31WithRoslynEnabledManually\\NetCore31WithRoslynEnabledManually.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
