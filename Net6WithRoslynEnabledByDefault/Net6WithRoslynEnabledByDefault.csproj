@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>
-        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+	    <!--     <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
         <!-- Every rule has to effect code analysis-->
         <!--        <AnalysisLevel>preview</AnalysisLevel>-->
         <!--        <AnalysisLevel>latest</AnalysisLevel>-->
@@ -13,7 +13,7 @@
 
         <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
         <!--		<AnalysisMode>Default</AnalysisMode> -->
-        <!--		<AnalysisMode>AllDisabledByDefault</AnalysisMode>-->
+<!--        		<AnalysisMode>AllDisabledByDefault</AnalysisMode>-->
 
         <!--        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
         <!--         <RunCodeAnalysis>true</RunCodeAnalysis>-->

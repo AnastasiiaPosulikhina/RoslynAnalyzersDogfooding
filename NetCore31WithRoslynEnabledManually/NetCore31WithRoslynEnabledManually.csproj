@@ -4,7 +4,7 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <RootNamespace>ConsoleAppNetCore31WithRoslynEnabledManually</RootNamespace>
-        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+<!--                <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
         <!-- This rule shouldn't effect code analysis-->
         <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
 

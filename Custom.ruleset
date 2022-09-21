@@ -1,12 +1,19 @@
 <RuleSet Name="Custom Ruleset" Description="Description" ToolsVersion="15.0">
     <Rules AnalyzerId="Microsoft.CodeAnalysis.NetAnalyzers" RuleNamespace="Microsoft.CodeAnalysis.NetAnalyzers">
-        <Rule Id="CA1040" Action="Warning" />
-        <Rule Id="CA1712" Action="Warning" />
-        <Rule Id="CA1010" Action="Warning" />
-        <Rule Id="CA1070" Action="Warning" />
-        <Rule Id="CA1417" Action="Warning" />
+        <Rule Id="CA1040" Action="Error" />
+        <Rule Id="CA1712" Action="Error" />
+        <Rule Id="CA1010" Action="Error" />
+        <Rule Id="CA1070" Action="Error" />
+        <Rule Id="CA1417" Action="Error" />
+        
+        <!--   .NET 7     -->
+        <Rule Id="CA1850" Action="Error" />
+        <Rule Id="CA1851" Action="Error" />
+        <Rule Id="CA1852" Action="Error" />
+        <Rule Id="CA1853" Action="Error" />
+        <Rule Id="CA1854" Action="Error" />
     </Rules>
     <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers">
-        <Rule Id="SA1200" Action="Warning" />
+        <Rule Id="SA1200" Action="Error" />
     </Rules>
 </RuleSet>

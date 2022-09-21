@@ -1,5 +1,4 @@
 ﻿// SA1200: Using directives must be placed within namespace
-// (shouldn't be highlighted by default because the rule is disabled in stylecop.json)
 using System;
 using System.Collections;
 using System.Runtime.InteropServices;

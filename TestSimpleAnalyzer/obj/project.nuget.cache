@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cXNdiLiHdLwENeZ9u4aiyoO1rc223BNjJYugAOD7j+X3vyKC+DjhsWSxDH7fePndQKkOQXsDkJSYUcW4y9CUnQ==",
+  "dgSpecHash": "szNFqyAIwlT3LoRVXgwZTc17XS2jNAEvKBUVy81Xv+5f2n2A64ttql4PdhXT7aw+BjOL7MKfY2TZNleC//LszQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\RoslynAnalyzersDogfooding\\TestSimpleAnalyzer\\TestSimpleAnalyzer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

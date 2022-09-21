@@ -2,7 +2,6 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRo
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\bin\Debug\net6.0\Net6WithRoslynEnabledByDefault.deps.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\bin\Debug\net6.0\Net6WithRoslynEnabledByDefault.runtimeconfig.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\bin\Debug\net6.0\Net6WithRoslynEnabledByDefault.dll
-C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\bin\Debug\net6.0\ref\Net6WithRoslynEnabledByDefault.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\bin\Debug\net6.0\Net6WithRoslynEnabledByDefault.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\obj\Debug\net6.0\Net6WithRoslynEnabledByDefault.csproj.AssemblyReference.cache
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\obj\Debug\net6.0\Net6WithRoslynEnabledByDefault.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRo
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\obj\Debug\net6.0\ref\Net6WithRoslynEnabledByDefault.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\obj\Debug\net6.0\Net6WithRoslynEnabledByDefault.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\obj\Debug\net6.0\Net6WithRoslynEnabledByDefault.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net6WithRoslynEnabledByDefault\obj\Debug\net6.0\refint\Net6WithRoslynEnabledByDefault.dll

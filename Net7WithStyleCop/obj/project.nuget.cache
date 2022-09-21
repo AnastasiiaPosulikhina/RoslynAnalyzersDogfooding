@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tjF/GQJdrRVE12u96zvBarAmgtz6PxuugHxelh9VnF1pbpEjv3p1zjSJoz9YrTYlKmLVpU/Ugm9v8lIlmOXww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\RoslynAnalyzersDogfooding\\Net7WithStyleCop\\Net7WithStyleCop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

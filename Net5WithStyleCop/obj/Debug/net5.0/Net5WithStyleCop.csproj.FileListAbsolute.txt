@@ -8,9 +8,9 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithSt
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\bin\Debug\net5.0\Net5WithStyleCop.runtimeconfig.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\bin\Debug\net5.0\Net5WithStyleCop.runtimeconfig.dev.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\bin\Debug\net5.0\Net5WithStyleCop.dll
-C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\bin\Debug\net5.0\ref\Net5WithStyleCop.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\bin\Debug\net5.0\Net5WithStyleCop.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\obj\Debug\net5.0\Net5WithStyleCop.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\obj\Debug\net5.0\ref\Net5WithStyleCop.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\obj\Debug\net5.0\Net5WithStyleCop.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\obj\Debug\net5.0\Net5WithStyleCop.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Net5WithStyleCop\obj\Debug\net5.0\refint\Net5WithStyleCop.dll

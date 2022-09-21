@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9qyJLbi48RkfM2pE4scddyTZ6skZXNdflyig6Qzu1s/bLT8B8UUU15q3OaOOwc/zioKPiaK6UWKix2OWlv37A==",
+  "dgSpecHash": "BHlAocSoVF81g3KTn8WU1ioMil//BAbcl/ipy4urKmGJrRYbX3E+Ws7Q20eiBz7X2FbGLrbYjYaMlLTnqT05Uw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\RoslynAnalyzersDogfooding\\Net5WithRoslynEnabledByDefault\\Net5WithRoslynEnabledByDefault.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

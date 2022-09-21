@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+<!--                <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
     </PropertyGroup>
 
 </Project>

@@ -12,14 +12,14 @@
         <AssemblyName>NetFramework48WithRoslynEnabledManually</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
-        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+<!--                <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
         <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers> -->
 
         <!--        <AnalysisLevel>preview</AnalysisLevel>-->
         <!--        <AnalysisLevel>latest</AnalysisLevel>-->
         <!--        <AnalysisLevel>5.0</AnalysisLevel>-->
 
-        <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
+<!--                <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
         <!--        <AnalysisMode>Default</AnalysisMode> -->
         <!--        <AnalysisMode>AllDisabledByDefault</AnalysisMode>-->
 

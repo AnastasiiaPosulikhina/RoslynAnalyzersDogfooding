@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 using System.Runtime.InteropServices;
 
 namespace NetCore31WithRoslynNotEnabled
@@ -25,6 +27,7 @@ namespace NetCore31WithRoslynNotEnabled
             EnumNotHighlightedByDefault1 = 0,
             EnumNotHighlightedByDefault2 = 1
         }
+        
     }
 
     internal static class Program
@@ -32,6 +35,15 @@ namespace NetCore31WithRoslynNotEnabled
     
         private static void Main()
         {
+            /*
+             * CA1851: Possible multiple enumerations of IEnumerable collection
+             * Default severity: none
+             * Quick fix: not available
+             */
+            IEnumerable<int> enumerable = Enumerable.Range(1, 10);
+            var elementAt1 = enumerable.ElementAt(2);
+            var elementAt2 = enumerable.ElementAt(2);
+            
             Console.WriteLine("Hello World!");
         }
     }

@@ -20,7 +20,6 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimple
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\bin\Debug\net5.0\TestSimpleAnalyzer.runtimeconfig.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\bin\Debug\net5.0\TestSimpleAnalyzer.runtimeconfig.dev.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\bin\Debug\net5.0\TestSimpleAnalyzer.dll
-C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\bin\Debug\net5.0\ref\TestSimpleAnalyzer.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\bin\Debug\net5.0\TestSimpleAnalyzer.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\bin\Debug\net5.0\RiderStyleCopAnalyzerBug.xml
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\obj\Debug\net5.0\TestSimpleAnalyzer.csproj.AssemblyReference.cache
@@ -32,3 +31,4 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimple
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\obj\Debug\net5.0\ref\TestSimpleAnalyzer.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\obj\Debug\net5.0\TestSimpleAnalyzer.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\obj\Debug\net5.0\TestSimpleAnalyzer.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\TestSimpleAnalyzer\obj\Debug\net5.0\refint\TestSimpleAnalyzer.dll

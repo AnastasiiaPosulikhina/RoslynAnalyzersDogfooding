@@ -22,7 +22,9 @@ namespace ConsoleAppNet5
         //CA1712: Do not prefix enum values with type name
         public enum Enum
         {
+#pragma warning disable CA1712
             EnumNotHighlightedByDefault1 = 0,
+#pragma warning restore CA1712
             EnumNotHighlightedByDefault2 = 1
         }
     }
@@ -32,6 +34,8 @@ namespace ConsoleAppNet5
     
         private static void Main()
         {
+            Console.WriteLine("Hello World!");
+            throw new StackOverflowException();
             Console.WriteLine("Hello World!");
         }
     }
