@@ -5,6 +5,16 @@ namespace Net7WithRoslynEnabledByDefault;
 
 // New .NET 7 Analyzers: https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/#analyzers
 
+public interface IBaseInterface
+{
+    static abstract int Property { get; }
+}
+
+public interface IInterface : IBaseInterface
+{
+    static int IBaseInterface.Property => 10;
+}
+
 /*
  * CA1852: Seal internal/private types
  * Default severity: none
@@ -14,8 +24,21 @@ internal class NewTest : Test
 {
 }
 
-public class Test
+
+
+public partial class Test
 {
+    // GeneratedRegex source generator
+    public static partial class MyUrlValidator
+    {
+        [GeneratedRegex(
+            @"^(ht|f)tp(s?)\:\/\/[0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*(:(0-9)*)*(\/?)([a-zA-Z0-9\-\.\?\,\'\/\\\+&amp;%\$#_]*)?$", 
+            RegexOptions.CultureInvariant, 
+            matchTimeoutMilliseconds: 1000)]
+        private static partial Regex MatchIfValidUrl();
+        public static bool IsValidUrl(string url) => MatchIfValidUrl().IsMatch(url);
+    }
+    
     private Dictionary<int, string> _dictionary = new()
     {
         { 1, "string1" },
@@ -81,8 +104,8 @@ public class Test
          */
         if (_dictionary.ContainsKey(key))
         {
-            var value = _dictionary[key];
-            Use(value);
+            var val = _dictionary[key];
+            Use(val);
         }
         
         Action disposeAction;

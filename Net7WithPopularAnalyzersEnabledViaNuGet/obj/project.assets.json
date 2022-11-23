@@ -2,6 +2,13 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Microsoft.CodeAnalysis.PublicApiAnalyzers/3.3.4-beta1.22518.1": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.CodeAnalysis.PublicApiAnalyzers.props": {},
+          "build/Microsoft.CodeAnalysis.PublicApiAnalyzers.targets": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -82,7 +89,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Roslynator.Analyzers/4.1.1": {
+      "Roslynator.Analyzers/4.1.2": {
         "type": "package"
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -256,7 +263,7 @@
           }
         }
       },
-      "SonarAnalyzer.CSharp/8.45.0.54064": {
+      "SonarAnalyzer.CSharp/8.49.0.57237": {
         "type": "package"
       },
       "System.AppContext/4.3.0": {
@@ -1382,6 +1389,90 @@
     }
   },
   "libraries": {
+    "Microsoft.CodeAnalysis.PublicApiAnalyzers/3.3.4-beta1.22518.1": {
+      "sha512": "XEE+Z+d0GMQo2ayYd7hSWCEV+7WdjyZVKpDl/qUes7M/Ll2ydKOcZoaw4Pm/WdYx5AKB41xUsKbLPVoFLei8tA==",
+      "type": "package",
+      "path": "microsoft.codeanalysis.publicapianalyzers/3.3.4-beta1.22518.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "ThirdPartyNotices.txt",
+        "analyzers/dotnet/Microsoft.CodeAnalysis.PublicApiAnalyzers.CodeFixes.dll",
+        "analyzers/dotnet/Microsoft.CodeAnalysis.PublicApiAnalyzers.dll",
+        "analyzers/dotnet/cs/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/de/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/es/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/fr/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/it/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/ja/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/ko/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/pl/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/pt-BR/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/ru/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/tr/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/zh-Hans/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "analyzers/dotnet/zh-Hant/Microsoft.CodeAnalysis.PublicApiAnalyzers.resources.dll",
+        "build/Microsoft.CodeAnalysis.PublicApiAnalyzers.props",
+        "build/Microsoft.CodeAnalysis.PublicApiAnalyzers.targets",
+        "build/config/analysislevel_2_9_8_all.editorconfig",
+        "build/config/analysislevel_2_9_8_default.editorconfig",
+        "build/config/analysislevel_2_9_8_minimum.editorconfig",
+        "build/config/analysislevel_2_9_8_none.editorconfig",
+        "build/config/analysislevel_2_9_8_recommended.editorconfig",
+        "build/config/analysislevel_3_3_3_all.editorconfig",
+        "build/config/analysislevel_3_3_3_default.editorconfig",
+        "build/config/analysislevel_3_3_3_minimum.editorconfig",
+        "build/config/analysislevel_3_3_3_none.editorconfig",
+        "build/config/analysislevel_3_3_3_recommended.editorconfig",
+        "build/config/analysislevel_3_3_all.editorconfig",
+        "build/config/analysislevel_3_3_default.editorconfig",
+        "build/config/analysislevel_3_3_minimum.editorconfig",
+        "build/config/analysislevel_3_3_none.editorconfig",
+        "build/config/analysislevel_3_3_recommended.editorconfig",
+        "build/config/analysislevelapidesign_2_9_8_all.editorconfig",
+        "build/config/analysislevelapidesign_2_9_8_default.editorconfig",
+        "build/config/analysislevelapidesign_2_9_8_minimum.editorconfig",
+        "build/config/analysislevelapidesign_2_9_8_none.editorconfig",
+        "build/config/analysislevelapidesign_2_9_8_recommended.editorconfig",
+        "build/config/analysislevelapidesign_3_3_3_all.editorconfig",
+        "build/config/analysislevelapidesign_3_3_3_default.editorconfig",
+        "build/config/analysislevelapidesign_3_3_3_minimum.editorconfig",
+        "build/config/analysislevelapidesign_3_3_3_none.editorconfig",
+        "build/config/analysislevelapidesign_3_3_3_recommended.editorconfig",
+        "build/config/analysislevelapidesign_3_3_all.editorconfig",
+        "build/config/analysislevelapidesign_3_3_default.editorconfig",
+        "build/config/analysislevelapidesign_3_3_minimum.editorconfig",
+        "build/config/analysislevelapidesign_3_3_none.editorconfig",
+        "build/config/analysislevelapidesign_3_3_recommended.editorconfig",
+        "documentation/Analyzer Configuration.md",
+        "documentation/Microsoft.CodeAnalysis.PublicApiAnalyzers.md",
+        "documentation/Microsoft.CodeAnalysis.PublicApiAnalyzers.sarif",
+        "editorconfig/AllRulesDefault/.editorconfig",
+        "editorconfig/AllRulesDisabled/.editorconfig",
+        "editorconfig/AllRulesEnabled/.editorconfig",
+        "editorconfig/ApiDesignRulesDefault/.editorconfig",
+        "editorconfig/ApiDesignRulesEnabled/.editorconfig",
+        "editorconfig/DataflowRulesDefault/.editorconfig",
+        "editorconfig/DataflowRulesEnabled/.editorconfig",
+        "editorconfig/PortedFromFxCopRulesDefault/.editorconfig",
+        "editorconfig/PortedFromFxCopRulesEnabled/.editorconfig",
+        "microsoft.codeanalysis.publicapianalyzers.3.3.4-beta1.22518.1.nupkg.sha512",
+        "microsoft.codeanalysis.publicapianalyzers.nuspec",
+        "rulesets/AllRulesDefault.ruleset",
+        "rulesets/AllRulesDisabled.ruleset",
+        "rulesets/AllRulesEnabled.ruleset",
+        "rulesets/ApiDesignRulesDefault.ruleset",
+        "rulesets/ApiDesignRulesEnabled.ruleset",
+        "rulesets/DataflowRulesDefault.ruleset",
+        "rulesets/DataflowRulesEnabled.ruleset",
+        "rulesets/PortedFromFxCopRulesDefault.ruleset",
+        "rulesets/PortedFromFxCopRulesEnabled.ruleset",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -1463,10 +1554,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Roslynator.Analyzers/4.1.1": {
-      "sha512": "3cPVlrB1PytlO1ztZZBOExDKQWpMZgI15ZDa0BqLu0l6xv+xIRfEpqjNRcpvUy3aLxWTkPgSKZbbaO+VoFEJ1g==",
+    "Roslynator.Analyzers/4.1.2": {
+      "sha512": "bNl3GRSBFjJymYnwq/IRDD9MOSZz9VKdGk9RsN0MWIXoSRnVKQv84f6s9nLE13y20lZgMZKlDqGw2uInBH4JgA==",
       "type": "package",
-      "path": "roslynator.analyzers/4.1.1",
+      "path": "roslynator.analyzers/4.1.2",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1481,7 +1572,7 @@
         "analyzers/dotnet/cs/Roslynator_Analyzers_Roslynator.Workspaces.Core.dll",
         "docs/README.md",
         "icon.png",
-        "roslynator.analyzers.4.1.1.nupkg.sha512",
+        "roslynator.analyzers.4.1.2.nupkg.sha512",
         "roslynator.analyzers.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
@@ -1711,10 +1802,10 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
-    "SonarAnalyzer.CSharp/8.45.0.54064": {
-      "sha512": "TpLL/+BUEKzGYvXYc7rfndurRo2rAt1VuGrYg8h3gYe02+h6ffgWm9+Ak6s1k1RSCkMywjvzgUaY2X277gBbaw==",
+    "SonarAnalyzer.CSharp/8.49.0.57237": {
+      "sha512": "wVHGCxl56DTTFof+szvLRS8Cvn28uZGTzDXLttFO7CNIf+n4KubsV1s7nfixW4zJFUT90IxUoSQA6zxikMiHbg==",
       "type": "package",
-      "path": "sonaranalyzer.csharp/8.45.0.54064",
+      "path": "sonaranalyzer.csharp/8.49.0.57237",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1725,7 +1816,7 @@
         "analyzers/SonarAnalyzer.dll",
         "images/sonarsource_64.png",
         "license/THIRD-PARTY-NOTICES.txt",
-        "sonaranalyzer.csharp.8.45.0.54064.nupkg.sha512",
+        "sonaranalyzer.csharp.8.49.0.57237.nupkg.sha512",
         "sonaranalyzer.csharp.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
@@ -4809,8 +4900,9 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Roslynator.Analyzers >= 4.1.1",
-      "SonarAnalyzer.CSharp >= 8.45.0.54064",
+      "Microsoft.CodeAnalysis.PublicApiAnalyzers >= 3.3.4-beta1.22518.1",
+      "Roslynator.Analyzers >= 4.1.2",
+      "SonarAnalyzer.CSharp >= 8.49.0.57237",
       "xunit >= 2.4.2"
     ]
   },
@@ -4859,17 +4951,23 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Microsoft.CodeAnalysis.PublicApiAnalyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.3.4-beta1.22518.1, )"
+          },
           "Roslynator.Analyzers": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[4.1.1, )"
+            "version": "[4.1.2, )"
           },
           "SonarAnalyzer.CSharp": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.45.0.54064, )"
+            "version": "[8.49.0.57237, )"
           },
           "xunit": {
             "target": "Package",
@@ -4892,7 +4990,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

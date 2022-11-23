@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v3.1": {
       "NetCore31WithRoslynEnabledManually/1.0.0": {
         "dependencies": {
-          "Microsoft.CodeAnalysis.NetAnalyzers": "5.0.3"
+          "Microsoft.CodeAnalysis.NetAnalyzers": "7.0.0-preview1.22518.1"
         },
         "runtime": {
           "NetCore31WithRoslynEnabledManually.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.NetAnalyzers/5.0.3": {}
+      "Microsoft.CodeAnalysis.NetAnalyzers/7.0.0-preview1.22518.1": {}
     }
   },
   "libraries": {
@@ -23,12 +23,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.CodeAnalysis.NetAnalyzers/5.0.3": {
+    "Microsoft.CodeAnalysis.NetAnalyzers/7.0.0-preview1.22518.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7rw0JUPSAVGR0HPekQiQvwGPor44p/Ek21+wZABraG4bVYNrSkx98ZZsxSxG5jJ4oqjACJxea8E62UO0dsKDBw==",
-      "path": "microsoft.codeanalysis.netanalyzers/5.0.3",
-      "hashPath": "microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512"
+      "sha512": "sha512-JxFUv71Af/nSUIXIBF0zcUIzbfeBS+zvr1k/HztbWNAM1jsq5KoLJMJMLZUOh+1XTjR9AOXn3cIgPNqZkMBOUQ==",
+      "path": "microsoft.codeanalysis.netanalyzers/7.0.0-preview1.22518.1",
+      "hashPath": "microsoft.codeanalysis.netanalyzers.7.0.0-preview1.22518.1.nupkg.sha512"
     }
   }
 }

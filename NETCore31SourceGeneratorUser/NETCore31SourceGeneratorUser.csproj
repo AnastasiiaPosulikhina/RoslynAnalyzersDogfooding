@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../CommentGenerator/CommentGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+        <ProjectReference Include="../NJsonSchemaGenerator/NJsonSchemaGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+        <ProjectReference Include="..\ValueObjectGenerator\ValueObjectGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+        
+        <Analyzer Include="..\DisableDateTimeNow\bin\Release\netstandard2.0\DisableDateTimeNow.dll" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <AdditionalFiles Include="../JsonSchema4.schema.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2-beta3" />
+    </ItemGroup>
+
+</Project>

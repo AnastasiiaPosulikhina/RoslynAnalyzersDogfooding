@@ -1,0 +1,2 @@
+Net7WithPopularAnalyzersEnabledViaNuGet.PublicApiAnalyzer
+Net7WithPopularAnalyzersEnabledViaNuGet.PublicApiAnalyzer.PublicApiAnalyzer() -> void

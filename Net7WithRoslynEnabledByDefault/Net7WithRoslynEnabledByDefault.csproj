@@ -6,28 +6,29 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+        <AnalysisMode>None</AnalysisMode>
         
 <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
         
         <!-- Every rule has to effect code analysis-->
        
-        <!--        <AnalysisLevel>preview</AnalysisLevel>-->
+<!--                <AnalysisLevel>6.0</AnalysisLevel>-->
         <!--        <AnalysisLevel>latest</AnalysisLevel>-->
-        <!--        <AnalysisLevel>5.0</AnalysisLevel>-->
-        <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
-
-        <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
+<!--                <AnalysisLevel>5.0-all</AnalysisLevel>-->
+<!--                <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
+<!---->
+                
         <!--		<AnalysisMode>Default</AnalysisMode> -->
         <!--		<AnalysisMode>AllDisabledByDefault</AnalysisMode>-->
 
-        <!--        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
+<!--                <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
         <!--         <RunCodeAnalysis>true</RunCodeAnalysis>-->
 
-        <!--         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+<!--                 <TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
 
-        <!--        <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>-->
-        <!--        <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>-->
-        <!--        <RunAnalyzers>false</RunAnalyzers>-->
+<!--                <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>-->
+<!--                <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>-->
+<!--                <RunAnalyzers>false</RunAnalyzers>-->
     </PropertyGroup>
 
 </Project>

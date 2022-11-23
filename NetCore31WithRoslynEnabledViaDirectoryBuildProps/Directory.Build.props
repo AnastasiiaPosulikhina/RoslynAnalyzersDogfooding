@@ -1,7 +1,7 @@
 ﻿<Project>
     <PropertyGroup>
         <EnableNETAnalyzers>true</EnableNETAnalyzers>
-        <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+<!--        <AnalysisMode>All</AnalysisMode>-->
 <!--                <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
 <!--                <RunCodeAnalysis>true</RunCodeAnalysis>-->
 

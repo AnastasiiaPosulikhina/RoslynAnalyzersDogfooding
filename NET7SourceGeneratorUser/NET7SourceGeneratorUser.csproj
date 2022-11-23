@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../CommentGenerator/CommentGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+        <ProjectReference Include="../NJsonSchemaGenerator/NJsonSchemaGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+        <ProjectReference Include="..\ValueObjectGenerator\ValueObjectGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+        
+        <Analyzer Include="..\DisableDateTimeNow\bin\Release\netstandard2.0\DisableDateTimeNow.dll" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <AdditionalFiles Include="../JsonSchema4.schema.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2-beta3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include=".NET 7 Source Generators\Support DateOnly and TimeOnly in JsonSerialize.cs" />
+      <Compile Include=".NET 7 Source Generators\Support for JsonDocument Types.cs" />
+      <Compile Include=".NET 7 Source Generators\Support IAsyncEnumerable.cs" />
+      <Compile Include=".NET 7 Source Generators\Support RegexGenerator.cs" />
+    </ItemGroup>
+
+</Project>

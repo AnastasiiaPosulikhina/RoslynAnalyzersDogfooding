@@ -2,5 +2,6 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)xunit.core\2.4.2\build\xunit.core.targets" Condition="Exists('$(NuGetPackageRoot)xunit.core\2.4.2\build\xunit.core.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.publicapianalyzers\3.3.4-beta1.22518.1\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.publicapianalyzers\3.3.4-beta1.22518.1\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.targets')" />
   </ImportGroup>
 </Project>

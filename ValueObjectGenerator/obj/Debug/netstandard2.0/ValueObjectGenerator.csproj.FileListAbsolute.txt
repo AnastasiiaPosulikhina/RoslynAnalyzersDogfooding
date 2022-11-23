@@ -1,0 +1,20 @@
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\bin\Debug\netstandard2.0\ValueObjectGenerator.deps.json
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\bin\Debug\netstandard2.0\ValueObjectGenerator.dll
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\bin\Debug\netstandard2.0\ValueObjectGenerator.pdb
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.dll
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\ValueObjectGenerator-main\ValueObjectGenerator-main\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\bin\Debug\netstandard2.0\ValueObjectGenerator.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\bin\Debug\netstandard2.0\ValueObjectGenerator.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\bin\Debug\netstandard2.0\ValueObjectGenerator.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\ValueObjectGenerator\obj\Debug\netstandard2.0\ValueObjectGenerator.pdb

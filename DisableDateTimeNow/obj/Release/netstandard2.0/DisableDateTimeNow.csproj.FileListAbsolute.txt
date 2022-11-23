@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\bin\Release\netstandard2.0\DisableDateTimeNow.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\bin\Release\netstandard2.0\DisableDateTimeNow.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\bin\Release\netstandard2.0\DisableDateTimeNow.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\reproduce-rider-bug-codefixprovider\DisableDateTimeNow\DisableDateTimeNow\obj\Release\netstandard2.0\DisableDateTimeNow.pdb

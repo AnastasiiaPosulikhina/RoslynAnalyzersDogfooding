@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\bin\Debug\netstandard2.0\generator.deps.json
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\bin\Debug\netstandard2.0\generator.dll
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\bin\Debug\netstandard2.0\generator.pdb
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.dll
+C:\Users\Anastasiia.Posulikhi\Desktop\JB\Source Generators\rider-source-generator-issue\generator\obj\Debug\netstandard2.0\generator.pdb

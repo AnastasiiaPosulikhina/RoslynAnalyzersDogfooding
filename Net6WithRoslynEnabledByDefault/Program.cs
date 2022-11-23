@@ -18,7 +18,7 @@ namespace Net6WithRoslynEnabledByDefault
         // CA1417: Do not use OutAttribute on string parameters for P/Invokes
         [DllImport("MyLibrary")]
         private static extern void Foo([Out] string stringHighlightedAsWarningByDefault);
-        
+
         //CA1712: Do not prefix enum values with type name
         public enum Enum
         {

@@ -15,10 +15,12 @@
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)xunit.core\2.4.2\build\xunit.core.props" Condition="Exists('$(NuGetPackageRoot)xunit.core\2.4.2\build\xunit.core.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.publicapianalyzers\3.3.4-beta1.22518.1\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.publicapianalyzers\3.3.4-beta1.22518.1\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\Anastasiia.Posulikhi\.nuget\packages\xunit.analyzers\1.0.0</Pkgxunit_analyzers>
-    <PkgSonarAnalyzer_CSharp Condition=" '$(PkgSonarAnalyzer_CSharp)' == '' ">C:\Users\Anastasiia.Posulikhi\.nuget\packages\sonaranalyzer.csharp\8.45.0.54064</PkgSonarAnalyzer_CSharp>
-    <PkgRoslynator_Analyzers Condition=" '$(PkgRoslynator_Analyzers)' == '' ">C:\Users\Anastasiia.Posulikhi\.nuget\packages\roslynator.analyzers\4.1.1</PkgRoslynator_Analyzers>
+    <PkgSonarAnalyzer_CSharp Condition=" '$(PkgSonarAnalyzer_CSharp)' == '' ">C:\Users\Anastasiia.Posulikhi\.nuget\packages\sonaranalyzer.csharp\8.49.0.57237</PkgSonarAnalyzer_CSharp>
+    <PkgRoslynator_Analyzers Condition=" '$(PkgRoslynator_Analyzers)' == '' ">C:\Users\Anastasiia.Posulikhi\.nuget\packages\roslynator.analyzers\4.1.2</PkgRoslynator_Analyzers>
+    <PkgMicrosoft_CodeAnalysis_PublicApiAnalyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_PublicApiAnalyzers)' == '' ">C:\Users\Anastasiia.Posulikhi\.nuget\packages\microsoft.codeanalysis.publicapianalyzers\3.3.4-beta1.22518.1</PkgMicrosoft_CodeAnalysis_PublicApiAnalyzers>
   </PropertyGroup>
 </Project>

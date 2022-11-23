@@ -1,0 +1,13 @@
+is_global = true
+build_property.CsWin32InputMetadataPaths = C:\Users\Anastasiia.Posulikhi\.nuget\packages\microsoft.windows.sdk.win32metadata\38.0.19-preview\buildTransitive\..\Windows.Win32.winmd
+build_property.CsWin32InputDocPaths = C:\Users\Anastasiia.Posulikhi\.nuget\packages\microsoft.windows.sdk.win32docs\0.1.7-alpha\buildTransitive\..\apidocs.msgpack
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CsWin32Generator
+build_property.ProjectDir = C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\CsWin32Generator\

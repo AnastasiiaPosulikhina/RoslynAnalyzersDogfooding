@@ -2,35 +2,35 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "StyleCop.Analyzers/1.2.0-beta.354": {
+      "StyleCop.Analyzers/1.2.0-beta.435": {
         "type": "package",
         "dependencies": {
-          "StyleCop.Analyzers.Unstable": "1.2.0.354"
+          "StyleCop.Analyzers.Unstable": "1.2.0.435"
         }
       },
-      "StyleCop.Analyzers.Unstable/1.2.0.354": {
+      "StyleCop.Analyzers.Unstable/1.2.0.435": {
         "type": "package"
       }
     }
   },
   "libraries": {
-    "StyleCop.Analyzers/1.2.0-beta.354": {
-      "sha512": "oDSJNxnEvIzAQTkpkc/FnJP4dQ7TV6fHMsI+2ckU5DOaMiwiEfh1fawMsSqz2bCoNwbTt9lS6MgYvyVKujNJoA==",
+    "StyleCop.Analyzers/1.2.0-beta.435": {
+      "sha512": "TADk7vdGXtfTnYCV7GyleaaRTQjfoSfZXprQrVMm7cSJtJbFc1QIbWPyLvrgrfGdfHbGmUPvaN4ODKNxg2jgPQ==",
       "type": "package",
-      "path": "stylecop.analyzers/1.2.0-beta.354",
+      "path": "stylecop.analyzers/1.2.0-beta.435",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
         "THIRD-PARTY-NOTICES.txt",
-        "stylecop.analyzers.1.2.0-beta.354.nupkg.sha512",
+        "stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
         "stylecop.analyzers.nuspec"
       ]
     },
-    "StyleCop.Analyzers.Unstable/1.2.0.354": {
-      "sha512": "/3RlM31XbJ02gaWh7dVumWOyMvGHswb/zygGJXd9oEJMRyyYc/HFJlAC5gBPxvi9cB4CMvIyyUTmZz5VLKwTvg==",
+    "StyleCop.Analyzers.Unstable/1.2.0.435": {
+      "sha512": "ouwPWZxbOV3SmCZxIRqHvljkSzkCyi1tDoMzQtDb/bRP8ctASV/iRJr+A2Gdj0QLaLmWnqTWDrH82/iP+X80Lg==",
       "type": "package",
-      "path": "stylecop.analyzers.unstable/1.2.0.354",
+      "path": "stylecop.analyzers.unstable/1.2.0.435",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -47,7 +47,7 @@
         "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
         "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
         "rulesets/StyleCopAnalyzersDefault.ruleset",
-        "stylecop.analyzers.unstable.1.2.0.354.nupkg.sha512",
+        "stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
         "stylecop.analyzers.unstable.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
@@ -56,7 +56,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "StyleCop.Analyzers >= 1.2.0-beta.354"
+      "StyleCop.Analyzers >= 1.2.0-beta.435"
     ]
   },
   "packageFolders": {
@@ -108,7 +108,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[1.2.0-beta.354, )"
+            "version": "[1.2.0-beta.435, )"
           }
         },
         "imports": [
@@ -127,7 +127,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

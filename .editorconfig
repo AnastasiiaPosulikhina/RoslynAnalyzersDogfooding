@@ -5,17 +5,25 @@
 # dotnet_analyzer_diagnostic.category-Design.severity = warning
 # dotnet_analyzer_diagnostic.category-Naming.severity = warning
 # 
-dotnet_diagnostic.CA1040.severity = warning
-dotnet_diagnostic.CA1712.severity = warning
-dotnet_diagnostic.CA1010.severity = warning
-dotnet_diagnostic.CA1070.severity = warning
-dotnet_diagnostic.CA1417.severity = warning
+# dotnet_diagnostic.CA1040.severity = warning
+# dotnet_diagnostic.CA1712.severity = warning
+# dotnet_diagnostic.CA1010.severity = warning
+# dotnet_diagnostic.CA1070.severity = warning
+# dotnet_diagnostic.CA1417.severity = warning
 
 # .NET 7
 
-dotnet_diagnostic.CA1850.severity = warning 
-dotnet_diagnostic.CA1851.severity = warning
-dotnet_diagnostic.CA1852.severity = warning
-dotnet_diagnostic.CA1853.severity = warning
-dotnet_diagnostic.CA1854.severity = warning
+# dotnet_diagnostic.CA1850.severity = warning 
+# dotnet_diagnostic.CA1851.severity = warning
+# dotnet_diagnostic.CA1852.severity = warning
+# dotnet_diagnostic.CA1853.severity = warning
+# dotnet_diagnostic.CA1854.severity = warning
+
+# Popular analyzers (Roslynator, XUnit, Sonar)
+
+# dotnet_diagnostic.RCS1213.severity = erorr
+# dotnet_diagnostic.S1144.severity = error
+# dotnet_diagnostic.xUnit1005.severity = error 
+
+
 

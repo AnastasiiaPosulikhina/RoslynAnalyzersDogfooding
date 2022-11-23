@@ -10,7 +10,7 @@
 
         <!--        <AnalysisLevel>preview</AnalysisLevel>-->
         <!--        <AnalysisLevel>latest</AnalysisLevel>-->
-        <!--        <AnalysisLevel>5.0</AnalysisLevel>-->
+<!--                <AnalysisLevel>5.0-all</AnalysisLevel>-->
 
         <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
 

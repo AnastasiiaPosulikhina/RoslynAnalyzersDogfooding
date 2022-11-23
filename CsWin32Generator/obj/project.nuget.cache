@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOGZcSMtknr6qbTRoPl36ZZl8UK9gU69UrKruB0AN0daDEXbDVJMC7aubbU5XjoWfTpcFxBMxRTcbDWBV+dO9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\RoslynAnalyzersDogfooding\\CsWin32Generator\\CsWin32Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.windows.cswin32\\0.2.138-beta\\microsoft.windows.cswin32.0.2.138-beta.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.windows.sdk.win32docs\\0.1.7-alpha\\microsoft.windows.sdk.win32docs.0.1.7-alpha.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.windows.sdk.win32metadata\\38.0.19-preview\\microsoft.windows.sdk.win32metadata.38.0.19-preview.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

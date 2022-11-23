@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0T7fBV9DtGbUdtXY5v6L+O+wAwRBf8RioQ8N6Rkqdl9oPazw2E9W8xmvAGFdmVd0YpoN0dRo3R7uIAmiIUJmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\RoslynAnalyzersDogfooding\\NET5SourceGeneratorUser\\NET5SourceGeneratorUser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta3\\newtonsoft.json.13.0.2-beta3.nupkg.sha512"
+  ],
+  "logs": []
+}
