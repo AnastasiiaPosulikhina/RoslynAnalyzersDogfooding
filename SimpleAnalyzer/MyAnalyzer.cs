@@ -15,7 +15,7 @@ namespace SimpleAnalyzer
         private const string Category = "Usage";
 
         private static readonly DiagnosticDescriptor Rule = new DiagnosticDescriptor(DiagnosticId, Title, MessageFormat,
-            Category, DiagnosticSeverity.Warning, isEnabledByDefault: true, description: Description);
+            Category, DiagnosticSeverity.Info, isEnabledByDefault: true, description: Description);
 
         public override void Initialize(AnalysisContext context)
         {
